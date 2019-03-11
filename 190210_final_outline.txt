@@ -1,0 +1,35 @@
+Final Outline
+
+Features
+	Paragraph #
+	Sentence #
+	LDA Sentence Topics: 16
+	LDA Paragraph Topics: 8
+	Doc2Vec Sentence: 32
+	Doc2Vec Paragraph: 16
+
+Train
+	30 works
+	20 authors
+
+Test
+	2+ chapters each
+	18 authors
+
+Models
+	RNN
+	LogReg
+	MultiNB
+
+Output
+	Topic Vector Labels, Weights
+	Individual Model Outputs
+	Voting Classifier
+	History details on predictions
+
+Presentation
+	Feature creation
+		LDA
+		Doc2Vec
+	Model Training
+		Optimizing
